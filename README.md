@@ -4,10 +4,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:000000,100:1a1a1a&text=FRQME&fontColor=ffffff&fontSize=52&fontAlignY=40&desc=Developer%20%7C%20Systems%20%7C%20Minecraft%20%7C%20Linux&descAlignY=62&descSize=16&animation=fadeIn" width="100%"/>
 </p>
 
-<p align="center">
-  <a href="https://github.com/Frqmelikescheese">
-    <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
+
   <a href="https://modrinth.com/user/frqmelikescheese">
     <img src="https://img.shields.io/badge/Modrinth-111111?style=for-the-badge&logo=modrinth&logoColor=white"/>
   </a>
