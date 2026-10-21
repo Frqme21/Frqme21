@@ -1,279 +1,57 @@
+## Ship · learn · repeat
+
+<div align="center">
+
 # Frqme
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:000000,100:1a1a1a&text=FRQME&fontColor=ffffff&fontSize=52&fontAlignY=40&desc=Developer%20%7C%20Systems%20%7C%20Minecraft%20%7C%20Linux&descAlignY=62&descSize=16&animation=fadeIn" width="100%"/>
-</p>
-
-
-  <a href="https://modrinth.com/user/frqmelikescheese">
-    <img src="https://img.shields.io/badge/Modrinth-111111?style=for-the-badge&logo=modrinth&logoColor=white"/>
-  </a>
-</p>
+> Backend or systems engineer
 
 <p align="center">
-  <strong>Building software across Minecraft, Linux, systems, and graphics.</strong>
+  <img src="https://www.gitskins.com/api/section/hero?username=frqme21&theme=satan&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F198471578%3Fu%3D9d6371651136b0634616962eb99116d6c40575a7%26v%3D4" alt="frqme21 hero visual" />
 </p>
 
-<br>
+</div>
 
-## `about`
+## The current loop
 
-I'm **Frqme**, a developer who likes building software from the ground up.
+> Systems Developer
+• Low-level firmware &amp; tools
+•  Linux &amp; web developer
+• Building @monochrome-aero
 
-My work started heavily around Minecraft development and has expanded into **Linux systems, developer tooling, graphics programming, editors, and lower-level software**.
+- 👥 **4** followers · **2** following
 
-I care about three things in particular:
+*Small, useful work over vague claims.*
 
-> **Performance · Simplicity · Control**
-
-I like understanding what happens underneath the abstractions instead of treating them as magic.
-
----
-
-## `focus`
+## Things I’m building
 
 <table>
-<tr>
-<td width="25%" align="center">
-
-### ⌬
-
-**Minecraft**
-
-Fabric mods
-Paper plugins
-Infrastructure
-Gameplay systems
-
-</td>
-
-<td width="25%" align="center">
-
-### ◈
-
-**Systems**
-
-Linux
-Tooling
-Architecture
-Performance
-
-</td>
-
-<td width="25%" align="center">
-
-### ◇
-
-**Graphics**
-
-GLSL
-OpenGL
-Rendering
-Shaders
-
-</td>
-
-<td width="25%" align="center">
-
-### ◎
-
-**Software**
-
-Editors
-Launchers
-Automation
-Developer tools
-
-</td>
-</tr>
+<tr><td width="32%"><b><a href="https://github.com/Frqme21/Cinematic-Camera">Cinematic-Camera</a></b></td><td>a plugin to create smooth camera movements in a paper server<br/><sub>Java · 0 stars</sub></td></tr>
+<tr><td width="32%"><b><a href="https://github.com/Frqme21/Galaxy">Galaxy</a></b></td><td>Galaxy is a modern neovim like editor designed  for maximum speed + comfort + looks and simplicity <br/><sub>Python · 0 stars</sub></td></tr>
+<tr><td width="32%"><b><a href="https://github.com/Frqme21/Just-Let-Me-Do-It">Just-Let-Me-Do-It</a></b></td><td>the source code for the just let me do it mod on modrinth<br/><sub>Java · 0 stars</sub></td></tr>
+<tr><td width="32%"><b><a href="https://github.com/Frqme21/notify">notify</a></b></td><td>A selected project from this GitHub profile.<br/><sub>Rust · 0 stars</sub></td></tr>
 </table>
 
----
-
-## `selected projects`
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### `Galaxy`
-
-**Modern editor focused on speed and simplicity.**
-
-A Neovim-inspired editor designed around a fast workflow, comfortable interface, and minimal friction.
-
-`Python` `Editor` `Tooling`
-
-</td>
-
-<td width="50%" valign="top">
-
-### `NovaLinux`
-
-**Linux environment built for experimentation.**
-
-A project exploring live Linux environments, desktop/window-manager selection, configuration, and system setup.
-
-`Linux` `Shell` `Arch`
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-### `Cinematic Camera`
-
-**Smooth cinematic camera paths for Paper.**
-
-A Minecraft plugin designed for creating controlled camera movements and cinematic sequences.
-
-`Java` `Paper` `Minecraft`
-
-</td>
-
-<td width="50%" valign="top">
-
-### `Just Let Me Do It`
-
-**Minecraft utility and quality-of-life mod.**
-
-A collection of features designed to remove unnecessary friction from normal gameplay.
-
-`Java` `Fabric` `Minecraft`
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-### `notify`
-
-**Lightweight notification tooling.**
-
-A Rust-based project focused on desktop notification functionality and system integration.
-
-`Rust` `Linux`
-
-</td>
-
-<td width="50%" valign="top">
-
-### `GLSL`
-
-**Graphics and rendering experiments.**
-
-Shaders, rendering techniques, visual effects, and experiments with real-time graphics.
-
-`GLSL` `OpenGL` `Graphics`
-
-</td>
-</tr>
-</table>
-
----
-
-## `technology`
+## Signals
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,rust,python,c,cpp,bash,linux,arch,neovim,git,gradle,cargo,opengl&theme=dark" />
+  <img src="https://www.gitskins.com/api/section/stats?username=frqme21&theme=satan&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F198471578%3Fu%3D9d6371651136b0634616962eb99116d6c40575a7%26v%3D4" alt="frqme21 stats visual" />
 </p>
+
+<p><code>182 contributions</code> · <code>0 day streak</code></p>
+
+## The shipping calendar
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=fabric,idea,vscode,github,cloudflar&theme=dark" />
+  <img src="https://www.gitskins.com/api/section/heatmap?username=frqme21&theme=satan" alt="frqme21 contribution activity" />
 </p>
 
----
-
-## `minecraft`
-
-Minecraft is still one of the biggest parts of what I build.
-
-<table>
-<tr>
-<td>
-
-**Client**
-
-* Fabric mods
-* QoL utilities
-* PvP systems
-* Experimental clients
-* Launchers
-
-</td>
-<td>
-
-**Server**
-
-* Paper plugins
-* Server infrastructure
-* Gameplay systems
-* Cinematic systems
-* Administration tooling
-
-</td>
-</tr>
-</table>
-
-Explore my Minecraft work on **[Modrinth](https://modrinth.com/user/frqmelikescheese)**.
-
----
-
-## `environment`
-
-```text
-OS              Cachy OS
-Editor          intellij for mods vs for anyting else
-Languages       Java · Rust · Python · Kotlin · SH
-Minecraft       Fabric · Paper
-Graphics        OpenGL · GLSL · Vulkan
-Build           Gradle · Cargo
-Workflow        Git · Linux CLI
-```
-
----
-
-## `github`
+## Work with me
 
 <p align="center">
-  <a href="https://github.com/Frqmelikescheese">
-    <img src="https://github-readme-stats.vercel.app/api?username=Frqmelikescheese&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&hide_title=true&theme=github_dark&bg_color=00000000&text_color=888888&icon_color=ffffff&ring_color=ffffff" height="165"/>
-  </a>
-  <a href="https://github.com/Frqmelikescheese">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Frqmelikescheese&layout=donut&hide_border=true&hide_title=true&langs_count=6&theme=github_dark&bg_color=00000000&text_color=888888" height="165"/>
-  </a>
+  <img src="https://www.gitskins.com/api/section/social?username=frqme21&theme=satan&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F198471578%3Fu%3D9d6371651136b0634616962eb99116d6c40575a7%26v%3D4" alt="frqme21 social visual" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Frqmelikescheese&bg_color=00000000&color=888888&line=ffffff&point=ffffff&area=true&hide_border=true&custom_title=Contribution%20Activity" width="95%"/>
-</p>
+<a href="https://github.com/frqme21">GitHub</a>
 
----
-
-## `connect`
-
-<p align="center">
-
-<a href="https://github.com/Frqmelikescheese">
-<img src="https://img.shields.io/badge/GitHub-ffffff?style=flat-square&logo=github&logoColor=000000"/>
-</a>
-
- 
-
-<a href="https://modrinth.com/user/frqmelikescheese">
-<img src="https://img.shields.io/badge/Modrinth-ffffff?style=flat-square&logo=modrinth&logoColor=000000"/>
-</a>
-
-</p>
-
----
-
-<p align="center">
-  <sub>Build it. Understand it. Improve it.</sub>
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:1a1a1a,100:000000" width="100%"/>
-</p>
+<p align="center"><sub>Frqme · Indie hacker profile generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
