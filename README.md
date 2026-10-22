@@ -46,7 +46,7 @@ An asynchronous, universal package-management shell with a breathing-air UI.
 
 Designed around a unified experience for multiple package ecosystems.
 
-**Targets:** pacman · AUR · Flatpak · Snap · APT · DNF
+**Targets:** AUR makepkg
 
 [↗ Explore repository](https://github.com/Frqme21/Aero)
 
